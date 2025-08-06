@@ -25,16 +25,11 @@ Previsão Influenciada:
 - Mês previsto: 11
 
 Fator Influenciador:
-quant_expl     kt_lag1
-mês_expl            01
-sh2_expl            23
-sh4_expl          2304
-ncm_expl      23040000
-uf_expl             MT
-regin_expl        5101
-mun_expl       5103403
-importance    0.053911
-Name: 74, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl  ncm_expl uf_expl regin_expl  \
+74    kt_lag1       01       23     2304  23040000      MT       5101   
+
+   mun_expl  importance mês_target mun_target ncm_target anos_expl marca  
+74  5103403    0.053911         11    5106224   31021010         8   dif  
 
 
 
@@ -52,10 +47,25 @@ Previsão Influenciada:
 - Mês previsto: 02
 
 Fator Influenciador:
-quant_expl    Urea_lag6
-mês_expl             08
-importance     0.053099
-Name: 40, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+40  Urea_lag6       08     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl marca  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
+40    0.053099         02    5106224   31022100         8   dif  
 
 
 
@@ -73,10 +83,25 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 Fator Influenciador:
-quant_expl    DAP_lag3
-mês_expl            11
-importance    0.045232
-Name: 1, dtype: object
+  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+1   DAP_lag3       11     None     None     None    None       None     None   
+
+   importance mês_target mun_target ncm_target anos_expl marca  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
+1    0.045232         05    5106224   31042090         8   dif  
 
 
 

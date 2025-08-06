@@ -17,62 +17,6 @@
 
 ![Gráfico de Previsão](31021010.png)
 
-Fator de Influência em Destaque:
-
-Previsão Influenciada:
-- Município: Nova Mutum
-- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 01
-
-Fator Influenciador:
-- Município: Recife
-- Elemento: Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais
-- Mês previsto: 12
-- Unidade: kt_mun
-
-
-
-
-
-
-
 ![Gráfico de Previsão](31022100.png)
 
-Fator de Influência em Destaque:
-
-Previsão Influenciada:
-- Município: Nova Mutum
-- Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 12
-
-Fator Influenciador:
-- Município: Varginha
-- Elemento: Adubos (fertilizantes)
-- Mês previsto: 12
-- Unidade: kt_lag1
-
-
-
-
-
-
-
 ![Gráfico de Previsão](31042090.png)
-
-Fator de Influência em Destaque:
-
-Previsão Influenciada:
-- Município: Nova Mutum
-- Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 07
-
-Fator Influenciador:
-- Município: Feira de Santana
-- Elemento: Adubos (fertilizantes)
-- Mês previsto: 07
-- Unidade: kt_lag12
-
-
-
-
-

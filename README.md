@@ -22,14 +22,12 @@ Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Nova Mutum
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 11
+- Mês previsto: 10
 
-Fator Influenciador:
-   quant_expl mês_expl sh2_expl sh4_expl  ncm_expl uf_expl regin_expl  \
-74    kt_lag1       01       23     2304  23040000      MT       5101   
-
-   mun_expl  importance mês_target mun_target ncm_target anos_expl marca  
-74  5103403    0.053911         11    5106224   31021010         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag6
+        - Mês 12
+        - UF TO
 
 
 
@@ -46,26 +44,10 @@ Previsão Influenciada:
 - Produto (NCM): Sulfato de amônio-31022100 
 - Mês previsto: 02
 
-Fator Influenciador:
-   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-40  Urea_lag6       08     None     None     None    None       None     None   
-
-    importance mês_target mun_target ncm_target anos_expl marca  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
-40    0.053099         02    5106224   31022100         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag3
+        - Mês 08
+        - UF RO
 
 
 
@@ -80,28 +62,12 @@ Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Nova Mutum
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 05
+- Mês previsto: 04
 
-Fator Influenciador:
-  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-1   DAP_lag3       11     None     None     None    None       None     None   
-
-   importance mês_target mun_target ncm_target anos_expl marca  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
-1    0.045232         05    5106224   31042090         8   dif  
+        Fator Influenciador: Chuva
+        - Unidade mm_lag7
+        - Mês 08
+        - UF SC
 
 
 

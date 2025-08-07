@@ -25,10 +25,10 @@ Previsão Influenciada:
 - Mês previsto: 01
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais (27)
-        - UF PE
-        - Unidade kt_mun
+Fator Influenciador: Comércio Exterior
+- Produto Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais (27)
+- UF PE
+- Unidade kt_mun
 \n
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 - Mês previsto: 12
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF MG
-        - Unidade kt_lag1
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF MG
+- Unidade kt_lag1
 \n
 
 
@@ -63,10 +63,10 @@ Previsão Influenciada:
 - Mês previsto: 07
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF BA
-        - Unidade kt_lag12
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF BA
+- Unidade kt_lag12
 \n
 
 
